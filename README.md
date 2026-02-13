@@ -23,7 +23,7 @@ UNTUK PACAR AKU MEILANI
     <h1 id="text"></h1>
 
     <script>
-        let pesan = "Happy Valentine's Day sayanggkuu🤍🤍 makasihh ya udah hadir dalam hidup aku,aku bahagia banget sayangg sama kamuu,sinii sinii pelukk ciuman sayanngg,selalu bahagia ya sayangg sama akuu I love you moree🤍🤍 ";
+        let pesan = "Happy Valentine's Day sayanggkuu meilani🤍🤍 makasihh ya udah hadir dalam hidup aku,aku bahagia banget sayangg sama kamuu,sinii sinii pelukk ciuman sayanngg,selalu bahagia ya sayangg sama akuu I love you moree🤍🤍 ";
         let i = 0;
 
         function ketik() {
